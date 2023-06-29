@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FinanceApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="text_add_operation_btn">Добавить</string>
+    <string name="title_notification_reminder">Внимание!</string>
+    <string name="description_notification_reminder">Не забудьте внести расходы на сегодня</string>
+
+    <string-array name="consumption">
+        <item>Спорт</item>
+        <item>Семья</item>
+        <item>Транспорт</item>
+        <item>Продукты</item>
+        <item>Подарки</item>
+        <item>Образование</item>
+        <item>Кафе</item>
+        <item>Дом</item>
+        <item>Досуг</item>
+        <item>Здоровье</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="income">
+        <item>Зарплата</item>
+        <item>Подарки</item>
+        <item>Другое</item>
+    </string-array>
+
+</resources>

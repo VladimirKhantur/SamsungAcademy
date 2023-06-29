@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+<item
+    android:id="@+id/cashFragment"
+    android:title="Счета"
+    android:icon="@drawable/ic_menu_money"
+    />
+    <item
+        android:id="@+id/notificationsFragment"
+        android:title="Уведомления"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        />
+    <item
+        android:id="@+id/operationsFragment"
+        android:title="Операции"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        />
+    <item
+        android:id="@+id/statisticsFragment"
+        android:title="Графики"
+        android:icon="@drawable/ic_baseline_incomplete_circle_24"
+        />
+</menu>
